@@ -1,38 +1,59 @@
 import puppeteer from "puppeteer";
 
-async function scrape(url) {
+async function manageBrowser(callPage) {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto(url, { waitUntil: "networkidle2" });
-
-  // Extract all links and image sources
-  const result = await page.evaluate(() => {
-    const anchors = Array.from(document.querySelectorAll("a"));
-    const imgs = Array.from(document.querySelectorAll("img"));
-    const links = anchors.map((a) => a.href).filter(Boolean);
-    const images = imgs.map((img) => img.src).filter(Boolean);
-    return {
-      links: Array.from(new Set(links)),
-      images: Array.from(new Set(images)),
-    };
-  });
-
-  await browser.close();
-  return result;
+  try {
+    return await callPage(page);
+  } finally {
+    await browser.close();
+  }
 }
 
-async function main() {
-  const url = process.argv[2];
+async function scrape(url) {
+  return await manageBrowser(async (page) => {
+    await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
+
+    // Extract all links and image sources
+    return await page.evaluate(() => {
+      function getAttributes(selector, attribute) {
+        return [
+          ...new Set(
+            Array.from(document.querySelectorAll(selector))
+              .map((e) => e[attribute])
+              .filter(Boolean)
+          ),
+        ];
+      }
+      return {
+        links: getAttributes("a", "href"),
+        images: getAttributes("img", "src"),
+      };
+    });
+  });
+  // return result;
+}
+
+function validateUrl(url) {
   if (!url) {
     console.error("Usage: node webscraper.js <url>");
     process.exit(1);
   }
+  return url;
+}
+
+function displayResults(links, images) {
+  console.log("Links found:");
+  links.forEach((link) => console.log(link));
+
+  console.log("\nImages found:");
+  images.forEach((img) => console.log(img));
+}
+async function main() {
+  const url = validateUrl(process.argv[2]);
   try {
     const { links, images } = await scrape(url);
-    console.log("Links found:");
-    links.forEach((link) => console.log(link));
-    console.log("\nImages found:");
-    images.forEach((img) => console.log(img));
+    displayResults(links, images);
   } catch (err) {
     console.error("Error:", err.message);
     process.exit(1);
