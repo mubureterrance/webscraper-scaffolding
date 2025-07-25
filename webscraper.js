@@ -14,7 +14,7 @@ async function manageBrowser(callPage) {
 
 async function scrape(url) {
   return await manageBrowser(async (page) => {
-    await page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
+     page.goto(url, { waitUntil: "networkidle2", timeout: 60000 });
 
     return await page.evaluate(() => {
       function getAttributes(selector, attribute) {
