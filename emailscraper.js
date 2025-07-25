@@ -26,7 +26,8 @@ async function runBrowser() {
         timeout: 30000,
       });
       console.log("🛡️ reCAPTCHA iframe detected");
-    } catch {
+    } 
+    catch{
       console.log("No reCAPTCHA iframe detected — continuing");
     }
     

@@ -22,7 +22,7 @@ async function scrape(url) {
           ...new Set(
             Array.from(document.querySelectorAll(selector))
               .map((e) => e[attribute])
-              .filter(Boolean)
+              .filter(Boolean),
           ),
         ];
       }
@@ -85,7 +85,6 @@ function saveResultsToFile(links, images, url) {
 
   writeJsonFile(filePath, data);
 }
-
 
 async function main() {
   const url = validateUrl(process.argv[2]);
