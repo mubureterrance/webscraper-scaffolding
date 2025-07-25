@@ -3,6 +3,14 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import puppeteerExtra from "puppeteer-extra";
 import fs from "fs";
 import path from "path";
+import {
+  sanitizeUrl,
+  generateTimestamp,
+  ensureDir,
+  writeJsonFile,
+  buildFilePath,
+} from "./utils/fileUtils.js";
+
 
 puppeteerExtra.use(StealthPlugin());
 
@@ -23,37 +31,10 @@ function validateUrl(url) {
 
 const WEBSITE_URL = validateUrl("https://www.ibba.org/wp-json/brokers/all");
 
-function sanitizeUrl(url) {
-  return url
-    .replace(/^https?:\/\//, "") // remove protocol
-    .replace(/[^\w\-]/g, "_") // replace unsafe characters
-    .substring(0, 50); // limit filename length
-}
-
-function ensureResultsDir(dir = "brokers") {
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-  }
-}
-
-function generateTimestamp() {
-  return new Date().toISOString().replace(/[:.]/g, "-");
-}
-
-function buildFilePath(url, timestamp, folder = "brokers") {
-  const cleanUrl = "ibba-brokers";   //sanitizeUrl(url);
-  return path.join(folder, `brokers${cleanUrl}_${timestamp}.json`);
-}
-
-function writeJsonFile(filepath, data) {
-  fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
-  console.log(`brokers saved to ${filepath}`);
-}
-
 function saveResultsToFile(brokers, url) {
   const timestamp = generateTimestamp();
-  ensureResultsDir();
-  const filePath = buildFilePath(url, timestamp);
+  ensureDir("brokers");  // uses imported ensureDir
+  const filePath = buildFilePath(url, timestamp, "brokers");
 
   const data = {
     timestamp,
@@ -62,7 +43,7 @@ function saveResultsToFile(brokers, url) {
     brokers,
   };
 
-  writeJsonFile(filePath, data);
+  writeJsonFile(filePath, data); // uses imported function
 }
 
 async function runBrowser() {
@@ -114,9 +95,11 @@ async function runBrowser() {
       return { firm, contact_person, email };
     });
 
+    results.sort((a, b) => a.firm.localeCompare(b.firm));
+
     console.log(`📋 Total brokers scraped: ${results.length}`);
     // console.log(results);
-    saveResultsToFile(results, WEBSITE_URL);
+    saveResultsToFile(results, WEBSITE_URL.toString());
 
     return results;
 
