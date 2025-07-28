@@ -20,7 +20,6 @@ function validateUrl(url) {
   }
 }
 
-
 const WEBSITE_URL = validateUrl("https://www.ibba.org/wp-json/brokers/all");
 
 function sanitizeUrl(url) {
@@ -64,7 +63,42 @@ function saveResultsToFile(brokers, url) {
 
   writeJsonFile(filePath, data);
 }
-
+async function waitForRecaptcha(page) {
+  try {
+        await page.waitForSelector('iframe[src*="recaptcha"]', { timeout: 60000 });
+        console.log("🛡 reCAPTCHA iframe detected");
+      } catch {
+          console.log("No reCAPTCHA iframe detected — continuing");
+        }
+}
+// Scroll to load all brokers
+async function ScrollToBottom(page) {
+  let prevHeight = 0;
+  while (true) {
+    const height = await page.evaluate(() => document.body.scrollHeight);
+    if (height === prevHeight) break;
+    prevHeight = height;
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await new Promise((resolve) => setTimeout(resolve, 3000));
+  }
+}
+async function fetchBrokerData(page) {
+    return page.evaluate(async () => {
+      const response = await fetch("https://www.ibba.org/wp-json/brokers/all");
+      return await response.json();
+    });
+}
+function transformBrokerData(results) {
+  return results.map(info => {
+    const firm = info.company || "N/A";
+    const firstName = info.first_name || "N/A";
+    const lastName = info.last_name || "N/A";
+    const contactPerson = `${firstName} ${lastName}`.trim();
+    const email = info.email || "N/A";
+    
+    return { firm, contact_person: contactPerson, email };
+  });    
+}
 async function runBrowser() {
   let browser;
   try {
@@ -79,48 +113,14 @@ async function runBrowser() {
 
     await page.goto(WEBSITE_URL, { waitUntil: "networkidle2" });
     console.log("✅ Page loaded");
+    await waitForRecaptcha(page);
+    await ScrollToBottom(page);
 
-    try {
-      await page.waitForSelector('iframe[src*="recaptcha"]', {
-        timeout: 30000,
-      });
-      console.log("🛡️ reCAPTCHA iframe detected");
-    } 
-    catch{
-      console.log("No reCAPTCHA iframe detected — continuing");
-    }
-    
-    // Scroll to load all brokers
-    let prevHeight = 0;
-    while (true) {
-      const height = await page.evaluate(() => document.body.scrollHeight);
-      if (height === prevHeight) break;
-      prevHeight = height;
-      await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-      await new Promise((resolve) => setTimeout(resolve, 30000));
-    }
+    const rawBrokers = await fetchBrokerData(page);
+    const processedBrokers = transformBrokerData(rawBrokers);
 
-    // Fetch and parse broker JSON directly from the API
-    const brokers = await page.evaluate(async () => {
-      const res = await fetch("https://www.ibba.org/wp-json/brokers/all");
-      return await res.json();
-    });
-
-    const results = brokers.map((info) => {
-      const firm = info.company || "N/A";
-      const first_name = info.first_name || "N/A";
-      const last_name = info.last_name || "N/A";
-      const contact_person = `${first_name} ${last_name}`.trim();
-      const email = info.email || "N/A";
-      return { firm, contact_person, email };
-    });
-
-    console.log(`📋 Total brokers scraped: ${results.length}`);
-    // console.log(results);
-    saveResultsToFile(results, WEBSITE_URL);
-
-    return results;
-
+    console.log(`📋 Total brokers scraped: ${processedBrokers.length}`);
+    saveResultsToFile(processedBrokers, WEBSITE_URL);
   } catch (err) {
     console.error("⚠️ Error:", err.message);
   } finally {

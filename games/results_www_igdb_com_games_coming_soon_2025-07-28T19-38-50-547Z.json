@@ -1,0 +1,60 @@
+{
+  "timestamp": "2025-07-28T19-38-50-547Z",
+  "url": "https://www.igdb.com/games/coming_soon",
+  "totalItems": 3,
+  "data": [
+    {
+      "title": "We Interns",
+      "link": "https://www.igdb.com/games/we-interns",
+      "releaseDate": "2025-07-28",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6eo.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Look At Me",
+      "link": "https://www.igdb.com/games/look-at-me--1",
+      "releaseDate": "2025-07-28",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co98t6.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Primal Planet",
+      "link": "https://www.igdb.com/games/primal-planet",
+      "releaseDate": "2025-07-28",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co6cd4.png",
+      "details": {
+        "genres": [
+          "platform",
+          "role-playing-rpg",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "seethingswarm"
+        ]
+      }
+    }
+  ]
+}
