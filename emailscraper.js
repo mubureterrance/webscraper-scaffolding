@@ -1,10 +1,69 @@
 import { connect } from "puppeteer-real-browser";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 import puppeteerExtra from "puppeteer-extra";
+import fs from "fs";
+import path from "path";
 
 puppeteerExtra.use(StealthPlugin());
 
-const WEBSITE_URL = "https://www.ibba.org/wp-json/brokers/all";
+function validateUrl(url) {
+  if (!url) {
+    console.error("❗ Usage: node webscraper.js <url>");
+    process.exit(1);
+  }
+
+  try {
+    return new URL(url); // Throws if invalid
+  } catch (err) {
+    console.error("❗ Invalid URL format:", url);
+    process.exit(1);
+  }
+}
+
+
+const WEBSITE_URL = validateUrl("https://www.ibba.org/wp-json/brokers/all");
+
+function sanitizeUrl(url) {
+  return url
+    .replace(/^https?:\/\//, "") // remove protocol
+    .replace(/[^\w\-]/g, "_") // replace unsafe characters
+    .substring(0, 50); // limit filename length
+}
+
+function ensureResultsDir(dir = "brokers") {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+}
+
+function generateTimestamp() {
+  return new Date().toISOString().replace(/[:.]/g, "-");
+}
+
+function buildFilePath(url, timestamp, folder = "brokers") {
+  const cleanUrl = "ibba-brokers";   //sanitizeUrl(url);
+  return path.join(folder, `brokers${cleanUrl}_${timestamp}.json`);
+}
+
+function writeJsonFile(filepath, data) {
+  fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
+  console.log(`brokers saved to ${filepath}`);
+}
+
+function saveResultsToFile(brokers, url) {
+  const timestamp = generateTimestamp();
+  ensureResultsDir();
+  const filePath = buildFilePath(url, timestamp);
+
+  const data = {
+    timestamp,
+    url,
+    totalBrokers: brokers.length,
+    brokers,
+  };
+
+  writeJsonFile(filePath, data);
+}
 
 async function runBrowser() {
   let browser;
@@ -57,7 +116,8 @@ async function runBrowser() {
     });
 
     console.log(`📋 Total brokers scraped: ${results.length}`);
-    console.log(results);
+    // console.log(results);
+    saveResultsToFile(results, WEBSITE_URL);
 
     return results;
 
