@@ -71,11 +71,26 @@ export function saveResultsToFile({ links, images, url, folder = "results" }) {
   const data = {
     timestamp,
     url,
-    totalLinks: links.length,
-    totalImages: images.length,
+    totalLinks: links.length || 0,
+    totalImages: images.length || 0,
     links,
     images,
   };
 
   writeJsonFile(filePath, data);
+}
+
+export function saveGamesToFile({ data, url, folder = "results" }) {
+  const timestamp = generateTimestamp();
+  ensureDir(folder);
+  const filePath = buildFilePath(url, timestamp, folder);
+
+  const resultSummary = {
+    timestamp,
+    url,
+    totalItems: Array.isArray(data) ? data.length : 0,
+    data,
+  };
+
+  writeJsonFile(filePath, resultSummary);
 }
