@@ -83,6 +83,6 @@ MIT
 
 ## 👥 Contributors
 
-- [Terrance Mubure](https://github.com/mubureterrance))
+- [Terrance Mubure](https://github.com/mubureterrance)
 - [Nomhle Cathala](https://github.com/Nomhle255)
 - [Tlhalefang Ntshilane](https://github.com/ThalefangN)
