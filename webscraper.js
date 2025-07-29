@@ -35,61 +35,7 @@ async function scrape(url) {
   });
 }
 
-<<<<<<< HEAD
-function validateUrl(url) {
-  if (!url) {
-    console.error("❗ Usage: node webscraper.js <url>");
-    process.exit(1);
-  }
-  return url;
-}
 
-function sanitizeUrl(url) {
-  return url
-    .replace(/^https?:\/\//, "") // remove protocol
-    .replace(/[^\w\-]/g, "_") // replace unsafe characters
-    .substring(0, 50); // limit filename length
-}
-
-function ensureResultsDir(dir = "results") {
-  if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir, { recursive: true });
-  }
-}
-
-function generateTimestamp() {
-  return new Date().toISOString().replace(/[:.]/g, "-");
-}
-
-function buildFilePath(url, timestamp, folder = "results") {
-  const cleanUrl = sanitizeUrl(url);
-  return path.join(folder, `results_${cleanUrl}_${timestamp}.json`);
-}
-
-function writeJsonFile(filepath, data) {
-  fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
-  console.log(`Results saved to ${filepath}`);
-}
-
-function saveResultsToFile(links, images, url) {
-  const timestamp = generateTimestamp();
-  ensureResultsDir();
-  const filePath = buildFilePath(url, timestamp);
-
-  const data = {
-    timestamp,
-    url,
-    totalLinks: links.length,
-    totalImages: images.length,
-    links,
-    images,
-  };
-
-  writeJsonFile(filePath, data);
-}
-
-=======
->>>>>>> 51cc6e69ced6af6ee9e2d75548e8719674ba3a2a
 async function main() {
   const url = validateUrl(process.argv[2]);
   console.log("Webscraper now scrapping url: " + url);
@@ -103,7 +49,7 @@ async function main() {
     console.log(` ${sortedLinks.length} links found`);
     console.log(` ${sortedImages.length} images found`);
 
-    saveResultsToFile({ links: sortedLinks, images: sortedImages, url });
+    saveResultsToFile({ links: sortedLinks, images: sortedImages, url: url, folder: "results" });
   } catch (err) {
     console.error("Error:", err.message);
     process.exit(1);

@@ -1,0 +1,4466 @@
+{
+  "timestamp": "2025-07-29T08-45-49-872Z",
+  "url": "https://www.igdb.com/games/coming_soon",
+  "totalItems": 236,
+  "data": [
+    {
+      "title": "Craft World",
+      "link": "https://www.igdb.com/games/craft-world",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4wd.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "android",
+          "ios",
+          "browser"
+        ],
+        "publishers": [
+          "voya-games"
+        ]
+      }
+    },
+    {
+      "title": "Co-op Kaiju Horror Cooking",
+      "link": "https://www.igdb.com/games/co-op-kaiju-horror-cooking",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4r1.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "strange-scaffold",
+          "frosty-pop-games-inc"
+        ]
+      }
+    },
+    {
+      "title": "Infinity Nikki: Danqing Season",
+      "link": "https://www.igdb.com/games/infinity-nikki-danqing-season",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6ca.png",
+      "details": {
+        "genres": [],
+        "platforms": [],
+        "publishers": []
+      }
+    },
+    {
+      "title": "Subroutine",
+      "link": "https://www.igdb.com/games/subroutine",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ust.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "My Father Lied",
+      "link": "https://www.igdb.com/games/my-father-lied",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co78m4.png",
+      "details": {
+        "genres": [
+          "point-and-click",
+          "puzzle",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "lunar-games-ltd"
+        ]
+      }
+    },
+    {
+      "title": "Tales of the Shire",
+      "link": "https://www.igdb.com/games/tales-of-the-shire",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co84g9.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "weta-gameshop",
+          "private-division"
+        ]
+      }
+    },
+    {
+      "title": "The Best Investor",
+      "link": "https://www.igdb.com/games/the-best-investor",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6e8.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Void Protocol",
+      "link": "https://www.igdb.com/games/void-protocol--1",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9w7f.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "The Shaman's Ark",
+      "link": "https://www.igdb.com/games/the-shamans-ark",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co97th.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Countryballs: Power Protocol",
+      "link": "https://www.igdb.com/games/countryballs-power-protocol",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9zay.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Delivery Pals",
+      "link": "https://www.igdb.com/games/delivery-pals",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yxv.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Terminull Brigade",
+      "link": "https://www.igdb.com/games/terminull-brigade",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co95yj.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "role-playing-rpg",
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined",
+          "level-infinite"
+        ]
+      }
+    },
+    {
+      "title": "ShellPieces",
+      "link": "https://www.igdb.com/games/shellpieces",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa60c.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Izurana's Walk",
+      "link": "https://www.igdb.com/games/izuranas-walk",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6eg.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Grounded 2",
+      "link": "https://www.igdb.com/games/grounded-2",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xwo.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure"
+        ],
+        "platforms": [
+          "win",
+          "series-x-s"
+        ],
+        "publishers": [
+          "obsidian-entertainment",
+          "xbox-game-studios"
+        ]
+      }
+    },
+    {
+      "title": "Sky the Scraper",
+      "link": "https://www.igdb.com/games/sky-the-scraper",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7id4.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Day of the Shell",
+      "link": "https://www.igdb.com/games/day-of-the-shell",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8z7x.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "strategy",
+          "adventure"
+        ],
+        "platforms": [
+          "mac",
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "duper-games",
+          "goblinz-publishing"
+        ]
+      }
+    },
+    {
+      "title": "The Inescapable Nightmare",
+      "link": "https://www.igdb.com/games/the-inescapable-nightmare",
+      "releaseDate": "2025-07-29",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6ed.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Unlockers",
+      "link": "https://www.igdb.com/games/unlockers",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9zzo.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Watch Where You're Going",
+      "link": "https://www.igdb.com/games/watch-where-youre-going",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9uuo.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Morgan: Metal Detective",
+      "link": "https://www.igdb.com/games/morgan-metal-detective",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8u7v.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "studio-morgan",
+          "subsilico"
+        ]
+      }
+    },
+    {
+      "title": "The Rotting Man",
+      "link": "https://www.igdb.com/games/the-rotting-man",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6du.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Gamestonk Simulator: Gone Rogue",
+      "link": "https://www.igdb.com/games/gamestonk-simulator-gone-rogue",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4p3.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Omashu: Snail Racing",
+      "link": "https://www.igdb.com/games/omashu-snail-racing",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6e6.png",
+      "details": {
+        "genres": [
+          "racing"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "the-indie-accord"
+        ]
+      }
+    },
+    {
+      "title": "Chess of Fortune",
+      "link": "https://www.igdb.com/games/chess-of-fortune",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6e3.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Kassei: Road Cycling 2025",
+      "link": "https://www.igdb.com/games/kassei-road-cycling-2025",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dt.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "sport"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "se-ks"
+        ]
+      }
+    },
+    {
+      "title": "Birdigo",
+      "link": "https://www.igdb.com/games/birdigo",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4p7.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Wood for Nobody Else",
+      "link": "https://www.igdb.com/games/wood-for-nobody-else",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dy.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Get It Up!",
+      "link": "https://www.igdb.com/games/get-it-up",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dx.png",
+      "details": {
+        "genres": [
+          "platform",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Guild no Uketsukejou desu ga, Yoko-scroll game ni natta no de Boss wo solo toubatsu shiyou to omoimasu.",
+      "link": "https://www.igdb.com/games/guild-no-uketsukejou-desu-ga-yoko-scroll-game-ni-natta-no-de-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ljh.png",
+      "details": {
+        "genres": [
+          "platform"
+        ],
+        "platforms": [
+          "browser"
+        ],
+        "publishers": [
+          "aniplex"
+        ]
+      }
+    },
+    {
+      "title": "Hypercore",
+      "link": "https://www.igdb.com/games/hypercore",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dr.png",
+      "details": {
+        "genres": [
+          "racing",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Hololive Holo's Hanafuda",
+      "link": "https://www.igdb.com/games/hololive-holos-hanafuda",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9o30.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "card-and-board-game"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5"
+        ],
+        "publishers": [
+          "gemdrops-inc"
+        ]
+      }
+    },
+    {
+      "title": "Hex Blast",
+      "link": "https://www.igdb.com/games/hex-blast",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9q66.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "turn-based-strategy-tbs"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "soy-boy-games"
+        ]
+      }
+    },
+    {
+      "title": "Pokémon Trading Card Game Pocket: Wisdom of Sea and Sky",
+      "link": "https://www.igdb.com/games/pokemon-trading-card-game-pocket-wisdom-of-sea-and-sky",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa679.png",
+      "details": {
+        "genres": [
+          "card-and-board-game"
+        ],
+        "platforms": [
+          "android",
+          "ios"
+        ],
+        "publishers": [
+          "dena"
+        ]
+      }
+    },
+    {
+      "title": "Coffee Shop Simulator",
+      "link": "https://www.igdb.com/games/coffee-shop-simulator--1",
+      "releaseDate": "2025-07-30",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "simulator"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Holy Shoot",
+      "link": "https://www.igdb.com/games/holy-shoot",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wpx.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Pinball Hero",
+      "link": "https://www.igdb.com/games/pinball-hero--1",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dw.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Hotel Simulator",
+      "link": "https://www.igdb.com/games/hotel-simulator--3",
+      "releaseDate": "2025-07-30",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "simulator"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Seagull Kart Racing",
+      "link": "https://www.igdb.com/games/seagull-kart-racing",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ucj.png",
+      "details": {
+        "genres": [
+          "racing",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Contract Rush DX",
+      "link": "https://www.igdb.com/games/contract-rush-dx",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5d3n.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Genshin Impact: Sunspray Summer Resort",
+      "link": "https://www.igdb.com/games/genshin-impact-sunspray-summer-resort",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa53c.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure"
+        ],
+        "platforms": [
+          "android",
+          "ios",
+          "win",
+          "ps4--1",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "hoyoverse",
+          "cognosphere"
+        ]
+      }
+    },
+    {
+      "title": "Farm of Rage",
+      "link": "https://www.igdb.com/games/farm-of-rage",
+      "releaseDate": "2025-07-30",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4nw.png",
+      "details": {
+        "genres": [
+          "shooter"
+        ],
+        "platforms": [
+          "android",
+          "ios",
+          "linux",
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "blacave"
+        ]
+      }
+    },
+    {
+      "title": "Missing Owner!",
+      "link": "https://www.igdb.com/games/missing-owner",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6x0.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Fight.exe",
+      "link": "https://www.igdb.com/games/fight-dot-exe",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co59mc.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Prospector",
+      "link": "https://www.igdb.com/games/prospector--1",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9627.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "loonworks-games",
+          "hypetrain-digital"
+        ]
+      }
+    },
+    {
+      "title": "Panta Rhei",
+      "link": "https://www.igdb.com/games/panta-rhei",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yvn.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "reignite-games"
+        ]
+      }
+    },
+    {
+      "title": "Time Flies",
+      "link": "https://www.igdb.com/games/time-flies",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co4ulb.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "switch",
+          "win",
+          "ps5"
+        ],
+        "publishers": [
+          "michael-frei",
+          "raphael-munoz",
+          "playables",
+          "panic"
+        ]
+      }
+    },
+    {
+      "title": "Strike Zero",
+      "link": "https://www.igdb.com/games/strike-zero",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co5odw.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Only the Rich May Die",
+      "link": "https://www.igdb.com/games/only-the-rich-may-die",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4pa.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Earthion",
+      "link": "https://www.igdb.com/games/earthion",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co97cy.png",
+      "details": {
+        "genres": [
+          "shooter"
+        ],
+        "platforms": [
+          "arcade",
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "genesis-slash-megadrive",
+          "series-x-s"
+        ],
+        "publishers": [
+          "exa-arcadia",
+          "ancient-co-dot-ltd",
+          "limited-run-games"
+        ]
+      }
+    },
+    {
+      "title": "Atomic Owl",
+      "link": "https://www.igdb.com/games/atomic-owl",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8znr.png",
+      "details": {
+        "genres": [
+          "platform",
+          "hack-and-slash-beat-em-up",
+          "adventure",
+          "indie",
+          "visual-novel"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "monster-theater"
+        ]
+      }
+    },
+    {
+      "title": "Paradigm Island",
+      "link": "https://www.igdb.com/games/paradigm-island",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co98qm.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Heat or Die",
+      "link": "https://www.igdb.com/games/heat-or-die",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa62j.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Spy Drops",
+      "link": "https://www.igdb.com/games/spy-drops",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8y5j.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "adventure",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "rainy-night-creations",
+          "rainy-frog"
+        ]
+      }
+    },
+    {
+      "title": "Tower Networking Inc.",
+      "link": "https://www.igdb.com/games/tower-networking-inc",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4p8.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Live Lens",
+      "link": "https://www.igdb.com/games/live-lens",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8mfe.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Tears of Vanfell",
+      "link": "https://www.igdb.com/games/tears-of-vanfell",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ggq.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "hack-and-slash-beat-em-up",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "lazy-cat-games"
+        ]
+      }
+    },
+    {
+      "title": "Gold Gold Adventure Gold",
+      "link": "https://www.igdb.com/games/gold-gold-adventure-gold",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8u2v.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Love In Tiny Spaces",
+      "link": "https://www.igdb.com/games/love-in-tiny-spaces",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9574.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "battlebrew-productions"
+        ]
+      }
+    },
+    {
+      "title": "Ninja Gaiden: Ragebound",
+      "link": "https://www.igdb.com/games/ninja-gaiden-ragebound",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9qrg.png",
+      "details": {
+        "genres": [
+          "platform",
+          "hack-and-slash-beat-em-up",
+          "adventure",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "the-game-kitchen",
+          "dotemu"
+        ]
+      }
+    },
+    {
+      "title": "Bus Flipper Simulator",
+      "link": "https://www.igdb.com/games/bus-flipper-simulator",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4p9.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Ys X: Proud Nordics",
+      "link": "https://www.igdb.com/games/ys-x-proud-nordics",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9miz.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure"
+        ],
+        "platforms": [
+          "switch-2",
+          "win"
+        ],
+        "publishers": [
+          "nihon-falcom",
+          "clouded-leopard-entertainment-inc"
+        ]
+      }
+    },
+    {
+      "title": "Mashina",
+      "link": "https://www.igdb.com/games/mashina",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9bc7.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "talha-and-jack-co",
+          "jack-king-spooner",
+          "judatone-studios"
+        ]
+      }
+    },
+    {
+      "title": "Store Empire",
+      "link": "https://www.igdb.com/games/store-empire",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9g5z.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Shapefighter",
+      "link": "https://www.igdb.com/games/shapefighter",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ggr.png",
+      "details": {
+        "genres": [
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Orbi Universo II",
+      "link": "https://www.igdb.com/games/orbi-universo-ii",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9hqm.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "orbi-universo-team"
+        ]
+      }
+    },
+    {
+      "title": "Demigoddess!",
+      "link": "https://www.igdb.com/games/demigoddess",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9l2m.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "turn-based-strategy-tbs"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "snp-engineering"
+        ]
+      }
+    },
+    {
+      "title": "Fuuraiki 5",
+      "link": "https://www.igdb.com/games/fuuraiki-5",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9j9t.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "ps4--1",
+          "ps5"
+        ],
+        "publishers": [
+          "undefined",
+          "nippon-ichi-software"
+        ]
+      }
+    },
+    {
+      "title": "Gold Gold Adventure Gold.",
+      "link": "https://www.igdb.com/games/gold-gold-adventure-gold--1",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9so6.png",
+      "details": {
+        "genres": [
+          "real-time-strategy-rts",
+          "role-playing-rpg",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Groove Coaster: Future Performers",
+      "link": "https://www.igdb.com/games/groove-coaster-future-performers",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ssm.png",
+      "details": {
+        "genres": [
+          "music",
+          "sport",
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "taito"
+        ]
+      }
+    },
+    {
+      "title": "Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack",
+      "link": "https://www.igdb.com/games/fuga-melodies-of-steel-3-cyberpunk-costume-pack",
+      "releaseDate": "2025-07-31",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Mononoke Chigiri",
+      "link": "https://www.igdb.com/games/mononoke-chigiri",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9tie.png",
+      "details": {
+        "genres": [
+          "visual-novel"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "otomate",
+          "idea-factory"
+        ]
+      }
+    },
+    {
+      "title": "Kungfu 2",
+      "link": "https://www.igdb.com/games/kungfu-2",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9umo.png",
+      "details": {
+        "genres": [
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "AVTale",
+      "link": "https://www.igdb.com/games/avtale",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9uss.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Chick Clicker",
+      "link": "https://www.igdb.com/games/chick-clicker",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9usv.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Fate’s Theater",
+      "link": "https://www.igdb.com/games/fates-theater",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9v91.png",
+      "details": {
+        "genres": [
+          "indie",
+          "card-and-board-game"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "totally-normal-creature"
+        ]
+      }
+    },
+    {
+      "title": "The Wizard of Bug",
+      "link": "https://www.igdb.com/games/the-wizard-of-bug",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9z6s.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Lakeside Bar",
+      "link": "https://www.igdb.com/games/lakeside-bar",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9w8i.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Dead Take",
+      "link": "https://www.igdb.com/games/dead-take",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4rn.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "surgent-studios",
+          "pocketpair"
+        ]
+      }
+    },
+    {
+      "title": "Crystal Keeper",
+      "link": "https://www.igdb.com/games/crystal-keeper",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xdg.png",
+      "details": {
+        "genres": [
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Crystal Gaiden Origins",
+      "link": "https://www.igdb.com/games/crystal-gaiden-origins",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yhd.png",
+      "details": {
+        "genres": [
+          "platform",
+          "adventure",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "onipunks-studio-inc"
+        ]
+      }
+    },
+    {
+      "title": "Dear me, I was…",
+      "link": "https://www.igdb.com/games/dear-me-i-was-dot-dot-dot",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa1m6.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch-2"
+        ],
+        "publishers": [
+          "arc-system-works"
+        ]
+      }
+    },
+    {
+      "title": "Korean Drone Flying Tour Hangang Park",
+      "link": "https://www.igdb.com/games/korean-drone-flying-tour-hangang-park",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa1jm.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "arcade"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Tanks!",
+      "link": "https://www.igdb.com/games/tanks--4",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa3eb.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "c-and-k-games"
+        ]
+      }
+    },
+    {
+      "title": "Lost Sword",
+      "link": "https://www.igdb.com/games/lost-sword",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa3mw.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg"
+        ],
+        "platforms": [
+          "android",
+          "ios"
+        ],
+        "publishers": [
+          "undefined",
+          "wemade-connect"
+        ]
+      }
+    },
+    {
+      "title": "Phantom Necro",
+      "link": "https://www.igdb.com/games/phantom-necro",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa3yz.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Besiege VR",
+      "link": "https://www.igdb.com/games/besiege-vr",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa46u.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "meta-quest-2",
+          "meta-quest-3"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Doomfields",
+      "link": "https://www.igdb.com/games/doomfields",
+      "releaseDate": "2025-07-31",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "BreadKnight Adventures",
+      "link": "https://www.igdb.com/games/breadknight-adventures",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4z9.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "strategy",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Polariball",
+      "link": "https://www.igdb.com/games/polariball",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5wg.png",
+      "details": {
+        "genres": [
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "zion-d-hill"
+        ]
+      }
+    },
+    {
+      "title": "Boba Tea Merge",
+      "link": "https://www.igdb.com/games/boba-tea-merge",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5n2.png",
+      "details": {
+        "genres": [
+          "puzzle"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Holo's Hanafuda",
+      "link": "https://www.igdb.com/games/holos-hanafuda",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5n9.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "card-and-board-game"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Against the Storm: Nightwatchers",
+      "link": "https://www.igdb.com/games/against-the-storm-nightwatchers",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5ro.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Foos",
+      "link": "https://www.igdb.com/games/foos",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa62s.png",
+      "details": {
+        "genres": [
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "waterveil-games"
+        ]
+      }
+    },
+    {
+      "title": "Cats Visiting the Cinema",
+      "link": "https://www.igdb.com/games/cats-visiting-the-cinema",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa64a.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure",
+          "arcade"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Heartworm",
+      "link": "https://www.igdb.com/games/heartworm",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co79lv.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "puzzle",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "vincent-adinolfi"
+        ]
+      }
+    },
+    {
+      "title": "Eggconsole Manhattan Requiem: Angels Flying In The Dark PC-8801",
+      "link": "https://www.igdb.com/games/eggconsole-manhattan-requiem-angels-flying-in-the-dark-pc-8801",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6qw.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Astral Takers",
+      "link": "https://www.igdb.com/games/astral-takers",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6de.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "strategy",
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Escape Game:The Odd Crime Scene",
+      "link": "https://www.igdb.com/games/escape-game-the-odd-crime-scene",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6qv.png",
+      "details": {
+        "genres": [
+          "puzzle"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Find the Text!",
+      "link": "https://www.igdb.com/games/find-the-text",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6qt.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Handy Hockey",
+      "link": "https://www.igdb.com/games/handy-hockey",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6qu.png",
+      "details": {
+        "genres": [
+          "sport"
+        ],
+        "platforms": [
+          "switch-2"
+        ],
+        "publishers": [
+          "itl"
+        ]
+      }
+    },
+    {
+      "title": "Whip/Sky/Fly",
+      "link": "https://www.igdb.com/games/whip-slash-sky-slash-fly",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6x6.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Jump!",
+      "link": "https://www.igdb.com/games/jump--6",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6ah.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Runaway Mole",
+      "link": "https://www.igdb.com/games/runaway-mole",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6ai.png",
+      "details": {
+        "genres": [
+          "platform",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "doezen"
+        ]
+      }
+    },
+    {
+      "title": "Get Out of the Woods",
+      "link": "https://www.igdb.com/games/get-out-of-the-woods",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6ak.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure",
+          "indie",
+          "visual-novel"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Moon Carrier",
+      "link": "https://www.igdb.com/games/moon-carrier",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6an.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "unpredictable-games"
+        ]
+      }
+    },
+    {
+      "title": "The Trials: Chapter One",
+      "link": "https://www.igdb.com/games/the-trials-chapter-one",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6aq.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie",
+          "visual-novel"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "hama-studios"
+        ]
+      }
+    },
+    {
+      "title": "MustScream",
+      "link": "https://www.igdb.com/games/mustscream",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6at.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Dreaming in Cherry Blossoms, I Fall in Love With You",
+      "link": "https://www.igdb.com/games/dreaming-in-cherry-blossoms-i-fall-in-love-with-you",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6av.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Escape House",
+      "link": "https://www.igdb.com/games/escape-house",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6aw.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Clan Duramont",
+      "link": "https://www.igdb.com/games/clan-duramont",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6b8.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Robo Rhythm",
+      "link": "https://www.igdb.com/games/robo-rhythm",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6b9.png",
+      "details": {
+        "genres": [
+          "music"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "chrome-polish"
+        ]
+      }
+    },
+    {
+      "title": "Wires and Whiskers",
+      "link": "https://www.igdb.com/games/wires-and-whiskers",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6bb.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "The Inconvenient Platformer",
+      "link": "https://www.igdb.com/games/the-inconvenient-platformer",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6bc.png",
+      "details": {
+        "genres": [
+          "platform",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "ethan-orcutt"
+        ]
+      }
+    },
+    {
+      "title": "Ronald Rump: Fake Assassin Simulator: Save America Again",
+      "link": "https://www.igdb.com/games/ronald-rump-fake-assassin-simulator-save-america-again",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6bd.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Twin Trials",
+      "link": "https://www.igdb.com/games/twin-trials",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6be.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "monosurge"
+        ]
+      }
+    },
+    {
+      "title": "Ko Ima ni Ari",
+      "link": "https://www.igdb.com/games/ko-ima-ni-ari",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6bf.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Someone Creepy",
+      "link": "https://www.igdb.com/games/someone-creepy",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dg.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Velocity One",
+      "link": "https://www.igdb.com/games/velocity-one",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dk.png",
+      "details": {
+        "genres": [
+          "racing",
+          "simulator"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Sweetie Candy Maze: Orange",
+      "link": "https://www.igdb.com/games/sweetie-candy-maze-orange",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6dm.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Distractor",
+      "link": "https://www.igdb.com/games/distractor",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yce.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Fire Hop",
+      "link": "https://www.igdb.com/games/fire-hop",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yf6.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Escape Everlit",
+      "link": "https://www.igdb.com/games/escape-everlit",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa0m8.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Pattern Survivors: Bullet Hell",
+      "link": "https://www.igdb.com/games/pattern-survivors-bullet-hell",
+      "releaseDate": "2025-07-31",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ypi.png",
+      "details": {
+        "genres": [
+          "real-time-strategy-rts",
+          "role-playing-rpg",
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "airem"
+        ]
+      }
+    },
+    {
+      "title": "CyberRhapsody",
+      "link": "https://www.igdb.com/games/cyberrhapsody",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ut0.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Third Shift",
+      "link": "https://www.igdb.com/games/third-shift",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9usw.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Esophaguys",
+      "link": "https://www.igdb.com/games/esophaguys",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co6ip8.png",
+      "details": {
+        "genres": [
+          "platform",
+          "puzzle",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "esophaguys-llc"
+        ]
+      }
+    },
+    {
+      "title": "Tamagotchi Nano Peanuts",
+      "link": "https://www.igdb.com/games/tamagotchi-nano-peanuts",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9you.png",
+      "details": {
+        "genres": [
+          "simulator"
+        ],
+        "platforms": [
+          "handheld-electronic-lcd"
+        ],
+        "publishers": [
+          "undefined",
+          "bandai"
+        ]
+      }
+    },
+    {
+      "title": "DreamBreaker",
+      "link": "https://www.igdb.com/games/dreambreaker",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9usx.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Rogue Night",
+      "link": "https://www.igdb.com/games/rogue-night",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co97xv.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "hack-and-slash-beat-em-up",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "grey-november-games"
+        ]
+      }
+    },
+    {
+      "title": "Project Fleet",
+      "link": "https://www.igdb.com/games/project-fleet",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa1p8.png",
+      "details": {
+        "genres": [
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "arntworks-development"
+        ]
+      }
+    },
+    {
+      "title": "Rookie Basketball Shoots",
+      "link": "https://www.igdb.com/games/rookie-basketball-shoots",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6qq.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "sport"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Another Farm Roguelike: Rebirth",
+      "link": "https://www.igdb.com/games/another-farm-roguelike-rebirth",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7uk1.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "zabbo-games"
+        ]
+      }
+    },
+    {
+      "title": "Unto the Aurora",
+      "link": "https://www.igdb.com/games/unto-the-aurora",
+      "releaseDate": "2025-08-01",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Hydro",
+      "link": "https://www.igdb.com/games/hydro",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9usy.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Ikarus Parkour",
+      "link": "https://www.igdb.com/games/ikarus-parkour",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ny0.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "vanja-aleksic"
+        ]
+      }
+    },
+    {
+      "title": "Silver Malfeasant",
+      "link": "https://www.igdb.com/games/silver-malfeasant",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wup.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Hivemind",
+      "link": "https://www.igdb.com/games/hivemind",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6l4.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "browser"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Darkroom",
+      "link": "https://www.igdb.com/games/darkroom--1",
+      "releaseDate": "2025-08-01",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5sy.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "bitborne-games"
+        ]
+      }
+    },
+    {
+      "title": "Atollo",
+      "link": "https://www.igdb.com/games/atollo",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9zkn.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "crudaluna-media"
+        ]
+      }
+    },
+    {
+      "title": "Catto's Post Office",
+      "link": "https://www.igdb.com/games/cattos-post-office",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8bs3.png",
+      "details": {
+        "genres": [
+          "simulator"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Yokai Tales",
+      "link": "https://www.igdb.com/games/yokai-tales",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wk2.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Punk Juice",
+      "link": "https://www.igdb.com/games/punk-juice",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7qjx.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Firefly Haven",
+      "link": "https://www.igdb.com/games/firefly-haven",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6t7.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "jasul"
+        ]
+      }
+    },
+    {
+      "title": "Slime In Abysm",
+      "link": "https://www.igdb.com/games/slime-in-abysm",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6td.png",
+      "details": {
+        "genres": [
+          "platform",
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "zatomeisis"
+        ]
+      }
+    },
+    {
+      "title": "Sands of Hope",
+      "link": "https://www.igdb.com/games/sands-of-hope",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5z9.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "guateke-studios"
+        ]
+      }
+    },
+    {
+      "title": "Bobbies Evolution",
+      "link": "https://www.igdb.com/games/bobbies-evolution",
+      "releaseDate": "2025-08-04",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wk3.png",
+      "details": {
+        "genres": [
+          "simulator"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2",
+      "link": "https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6vz.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "cyberconnect2",
+          "sega",
+          "aniplex"
+        ]
+      }
+    },
+    {
+      "title": "ZombMe",
+      "link": "https://www.igdb.com/games/zombme",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9t8e.png",
+      "details": {
+        "genres": [
+          "platform",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "mike-palotas"
+        ]
+      }
+    },
+    {
+      "title": "Oscuro Blossom's Glow",
+      "link": "https://www.igdb.com/games/oscuro-blossoms-glow",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ub8.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 Character Pass",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-character-pass",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xih.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch-2",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Jar Head Cauldron",
+      "link": "https://www.igdb.com/games/jar-head-cauldron",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9gq2.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Demon Slayer: The Hinokami Chronicles 2",
+      "link": "https://www.igdb.com/games/demon-slayer-the-hinokami-chronicles-2",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co95m9.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "undefined",
+          "sega"
+        ]
+      }
+    },
+    {
+      "title": "Little Laps",
+      "link": "https://www.igdb.com/games/little-laps",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9z86.png",
+      "details": {
+        "genres": [
+          "racing",
+          "sport"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Potato Cop",
+      "link": "https://www.igdb.com/games/potato-cop",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa0d3.png",
+      "details": {
+        "genres": [
+          "hack-and-slash-beat-em-up",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "tossedbloom-studio"
+        ]
+      }
+    },
+    {
+      "title": "Final Fantasy XIV: The Promise of Tomorrow",
+      "link": "https://www.igdb.com/games/final-fantasy-xiv-the-promise-of-tomorrow",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa607.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "mac",
+          "win",
+          "ps4--1",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "square-enix-creative-studio-iii",
+          "square-enix"
+        ]
+      }
+    },
+    {
+      "title": "Heroes Against Time",
+      "link": "https://www.igdb.com/games/heroes-against-time",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yvq.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "david-vinokurov"
+        ]
+      }
+    },
+    {
+      "title": "Slimes & Dusters TO",
+      "link": "https://www.igdb.com/games/slimes-and-dusters-to",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7ctb.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "A Few Quick Matches",
+      "link": "https://www.igdb.com/games/a-few-quick-matches",
+      "releaseDate": "2025-08-05",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "studio-bidou"
+        ]
+      }
+    },
+    {
+      "title": "Ra Ra Boom",
+      "link": "https://www.igdb.com/games/ra-ra-boom",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co69xo.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "shooter",
+          "hack-and-slash-beat-em-up",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "gylee-games"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 Ultimate Pass",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-ultimate-pass",
+      "releaseDate": "2025-08-05",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch-2"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "World of Warcraft: The War Within - Ghosts of K’aresh",
+      "link": "https://www.igdb.com/games/world-of-warcraft-the-war-within-ghosts-of-karesh",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6kp.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "blizzard-entertainment"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 - Sagat",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-sagat",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4qf.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "capcom"
+        ]
+      }
+    },
+    {
+      "title": "Potato Cop",
+      "link": "https://www.igdb.com/games/potato-cop",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa0d3.png",
+      "details": {
+        "genres": [
+          "hack-and-slash-beat-em-up",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "tossedbloom-studio"
+        ]
+      }
+    },
+    {
+      "title": "Demon Slayer: The Hinokami Chronicles 2",
+      "link": "https://www.igdb.com/games/demon-slayer-the-hinokami-chronicles-2",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co95m9.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "undefined",
+          "sega"
+        ]
+      }
+    },
+    {
+      "title": "Little Laps",
+      "link": "https://www.igdb.com/games/little-laps",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9z86.png",
+      "details": {
+        "genres": [
+          "racing",
+          "sport"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "World of Warcraft: The War Within - Ghosts of K’aresh",
+      "link": "https://www.igdb.com/games/world-of-warcraft-the-war-within-ghosts-of-karesh",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6kp.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "blizzard-entertainment"
+        ]
+      }
+    },
+    {
+      "title": "A Few Quick Matches",
+      "link": "https://www.igdb.com/games/a-few-quick-matches",
+      "releaseDate": "2025-08-05",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "studio-bidou"
+        ]
+      }
+    },
+    {
+      "title": "Slimes & Dusters TO",
+      "link": "https://www.igdb.com/games/slimes-and-dusters-to",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7ctb.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Heroes Against Time",
+      "link": "https://www.igdb.com/games/heroes-against-time",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yvq.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "david-vinokurov"
+        ]
+      }
+    },
+    {
+      "title": "ZombMe",
+      "link": "https://www.igdb.com/games/zombme",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9t8e.png",
+      "details": {
+        "genres": [
+          "platform",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "mike-palotas"
+        ]
+      }
+    },
+    {
+      "title": "Oscuro Blossom's Glow",
+      "link": "https://www.igdb.com/games/oscuro-blossoms-glow",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ub8.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 - Sagat",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-sagat",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4qf.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "capcom"
+        ]
+      }
+    },
+    {
+      "title": "Jar Head Cauldron",
+      "link": "https://www.igdb.com/games/jar-head-cauldron",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9gq2.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 Character Pass",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-character-pass",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xih.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch-2",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Street Fighter 6: Year 3 Ultimate Pass",
+      "link": "https://www.igdb.com/games/street-fighter-6-year-3-ultimate-pass",
+      "releaseDate": "2025-08-05",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch-2"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Final Fantasy XIV: The Promise of Tomorrow",
+      "link": "https://www.igdb.com/games/final-fantasy-xiv-the-promise-of-tomorrow",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa607.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "mac",
+          "win",
+          "ps4--1",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "square-enix-creative-studio-iii",
+          "square-enix"
+        ]
+      }
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2",
+      "link": "https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6vz.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "adventure"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "cyberconnect2",
+          "sega",
+          "aniplex"
+        ]
+      }
+    },
+    {
+      "title": "Ra Ra Boom",
+      "link": "https://www.igdb.com/games/ra-ra-boom",
+      "releaseDate": "2025-08-05",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co69xo.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "shooter",
+          "hack-and-slash-beat-em-up",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "xboxone",
+          "series-x-s"
+        ],
+        "publishers": [
+          "gylee-games"
+        ]
+      }
+    },
+    {
+      "title": "Unsung Escape",
+      "link": "https://www.igdb.com/games/unsung-escape",
+      "releaseDate": "2025-08-06",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5xl.png",
+      "details": {
+        "genres": [
+          "platform",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Wish Upon a Cat",
+      "link": "https://www.igdb.com/games/wish-upon-a-cat",
+      "releaseDate": "2025-08-06",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5tv.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "odencat"
+        ]
+      }
+    },
+    {
+      "title": "Castle Crashers: Painter Boss Paradise",
+      "link": "https://www.igdb.com/games/castle-crashers-painter-boss-paradise",
+      "releaseDate": "2025-08-06",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8kx0.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "the-behemoth"
+        ]
+      }
+    },
+    {
+      "title": "Operation Night Strikers",
+      "link": "https://www.igdb.com/games/operation-night-strikers",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ssp.png",
+      "details": {
+        "genres": [
+          "shooter"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "m2",
+          "taito"
+        ]
+      }
+    },
+    {
+      "title": "Corpse Party Tetralogy Pack",
+      "link": "https://www.igdb.com/games/corpse-party-tetralogy-pack",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa2op.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "team-grisgris",
+          "mages"
+        ]
+      }
+    },
+    {
+      "title": "Out and About",
+      "link": "https://www.igdb.com/games/out-and-about",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co88l1.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "yaldi-games"
+        ]
+      }
+    },
+    {
+      "title": "1000 Deaths",
+      "link": "https://www.igdb.com/games/1000-deaths--1",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co3vld.png",
+      "details": {
+        "genres": [
+          "platform",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "pariah-interactive"
+        ]
+      }
+    },
+    {
+      "title": "Artis Impact",
+      "link": "https://www.igdb.com/games/artis-impact--1",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8xup.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "mas"
+        ]
+      }
+    },
+    {
+      "title": "Tiny Bookshop",
+      "link": "https://www.igdb.com/games/tiny-bookshop",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xuq.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "neoludic-games",
+          "skystone-games"
+        ]
+      }
+    },
+    {
+      "title": "MakeRoom",
+      "link": "https://www.igdb.com/games/makeroom",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa0h6.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "kenney"
+        ]
+      }
+    },
+    {
+      "title": "Fistagon",
+      "link": "https://www.igdb.com/games/fistagon",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co70aa.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "puzzle",
+          "sport",
+          "indie"
+        ],
+        "platforms": [
+          "meta-quest-2",
+          "meta-quest-3",
+          "steam-vr"
+        ],
+        "publishers": [
+          "virtual-dawn"
+        ]
+      }
+    },
+    {
+      "title": "Ritual of Raven",
+      "link": "https://www.igdb.com/games/ritual-of-raven",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8pcy.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "role-playing-rpg",
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "spellgarden-games",
+          "team17"
+        ]
+      }
+    },
+    {
+      "title": "Guntouchables",
+      "link": "https://www.igdb.com/games/guntouchables",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9c2h.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "indie",
+          "arcade"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "game-swing",
+          "ghost-ship-publishing"
+        ]
+      }
+    },
+    {
+      "title": "Egging On",
+      "link": "https://www.igdb.com/games/egging-on",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9oby.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "egobounds",
+          "alibi-games"
+        ]
+      }
+    },
+    {
+      "title": "Chained Echoes: Ashes of Elrant",
+      "link": "https://www.igdb.com/games/chained-echoes-ashes-of-elrant",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co94s5.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "turn-based-strategy-tbs",
+          "indie"
+        ],
+        "platforms": [
+          "linux",
+          "mac",
+          "switch",
+          "win",
+          "ps4--1",
+          "xboxone"
+        ],
+        "publishers": [
+          "undefined",
+          "deck13-spotlight"
+        ]
+      }
+    },
+    {
+      "title": "The House of the Dead 2: Remake",
+      "link": "https://www.igdb.com/games/the-house-of-the-dead-2-remake",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co99gp.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "arcade"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps4--1",
+          "ps5"
+        ],
+        "publishers": [
+          "megapixel-studio-sa",
+          "forever-entertainment-sa"
+        ]
+      }
+    },
+    {
+      "title": "Windborn: Wings of Fate",
+      "link": "https://www.igdb.com/games/windborn-wings-of-fate",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9bom.png",
+      "details": {
+        "genres": [
+          "racing",
+          "simulator",
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Gemporium",
+      "link": "https://www.igdb.com/games/gemporium",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9tzk.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "merge-conflict-studio"
+        ]
+      }
+    },
+    {
+      "title": "Static Dread",
+      "link": "https://www.igdb.com/games/static-dread",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9drx.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "solarsuit",
+          "polden-publishing"
+        ]
+      }
+    },
+    {
+      "title": "Gradius Origins",
+      "link": "https://www.igdb.com/games/gradius-origins",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9l0o.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "arcade"
+        ],
+        "platforms": [
+          "switch",
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "m2-co-dot-ltd",
+          "konami"
+        ]
+      }
+    },
+    {
+      "title": "Salamander III",
+      "link": "https://www.igdb.com/games/salamander-iii",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9l0p.png",
+      "details": {
+        "genres": [
+          "shooter"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "m2-co-dot-ltd",
+          "konami"
+        ]
+      }
+    },
+    {
+      "title": "The Royal Writ",
+      "link": "https://www.igdb.com/games/the-royal-writ",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ozl.png",
+      "details": {
+        "genres": [
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "save-sloth-studios",
+          "yogscast-games"
+        ]
+      }
+    },
+    {
+      "title": "Behind the Frame: The Finest Scenery / The Star Named Eos",
+      "link": "https://www.igdb.com/games/behind-the-frame-the-finest-scenery-slash-the-star-named-eos",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9qfd.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Eclipse: Special Forces",
+      "link": "https://www.igdb.com/games/eclipse-special-forces",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ut1.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Hidden Memories of the Gardens Between",
+      "link": "https://www.igdb.com/games/hidden-memories-of-the-gardens-between",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wv1.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "meta-quest-2",
+          "steam-vr"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "The First Descendant: Breakthrough",
+      "link": "https://www.igdb.com/games/the-first-descendant-breakthrough",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6pa.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "role-playing-rpg"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "nexon-games",
+          "nexon-korea"
+        ]
+      }
+    },
+    {
+      "title": "Drops of Death",
+      "link": "https://www.igdb.com/games/drops-of-death",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co857a.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "indie",
+          "visual-novel"
+        ],
+        "platforms": [
+          "linux",
+          "mac",
+          "win"
+        ],
+        "publishers": [
+          "snowhaven-studios",
+          "crystal-game-works"
+        ]
+      }
+    },
+    {
+      "title": "Mystery Hotel: Hidden Objects",
+      "link": "https://www.igdb.com/games/mystery-hotel-hidden-objects",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa3ep.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Worms Across Worlds",
+      "link": "https://www.igdb.com/games/worms-across-worlds",
+      "releaseDate": "2025-08-07",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "ios",
+          "mac"
+        ],
+        "publishers": [
+          "undefined",
+          "team17"
+        ]
+      }
+    },
+    {
+      "title": "Everybody Shogi",
+      "link": "https://www.igdb.com/games/everybody-shogi",
+      "releaseDate": "2025-08-07",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "puzzle"
+        ],
+        "platforms": [
+          "ios",
+          "mac",
+          "visionos"
+        ],
+        "publishers": [
+          "undefined",
+          "altplus-inc"
+        ]
+      }
+    },
+    {
+      "title": "Play-Doh World",
+      "link": "https://www.igdb.com/games/play-doh-world",
+      "releaseDate": "2025-08-07",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [],
+        "platforms": [
+          "ios",
+          "mac"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Let’s Go Mightycat!",
+      "link": "https://www.igdb.com/games/lets-go-mightycat",
+      "releaseDate": "2025-08-07",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "puzzle"
+        ],
+        "platforms": [
+          "ios",
+          "mac",
+          "visionos"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Cozy Cooking: Tiny Tastes",
+      "link": "https://www.igdb.com/games/cozy-cooking-tiny-tastes",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa5yi.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "simulator",
+          "arcade"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Reverse: 1999 x Assassin's Creed",
+      "link": "https://www.igdb.com/games/reverse-1999-x-assassins-creed",
+      "releaseDate": "2025-08-07",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6gr.png",
+      "details": {
+        "genres": [
+          "fighting",
+          "role-playing-rpg",
+          "strategy",
+          "adventure"
+        ],
+        "platforms": [
+          "android",
+          "ios",
+          "win"
+        ],
+        "publishers": [
+          "bluepoch"
+        ]
+      }
+    },
+    {
+      "title": "Hellbrella",
+      "link": "https://www.igdb.com/games/hellbrella",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa040.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "icy-mountain-studios"
+        ]
+      }
+    },
+    {
+      "title": "The Presidential Assassins",
+      "link": "https://www.igdb.com/games/the-presidential-assassins",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9ut4.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Mortal Glory 2 + DLC",
+      "link": "https://www.igdb.com/games/mortal-glory-2-plus-dlc",
+      "releaseDate": "2025-08-08",
+      "image": "/assets/no_cover_show-ef1e36c00e101c2fb23d15bb80edd9667bbf604a12fc0267a66033afea320c65.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "strategy",
+          "adventure"
+        ],
+        "platforms": [
+          "switch"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Break Arts III",
+      "link": "https://www.igdb.com/games/break-arts-iii--1",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co71e7.png",
+      "details": {
+        "genres": [
+          "racing",
+          "sport",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "mercurystudio",
+          "playism"
+        ]
+      }
+    },
+    {
+      "title": "Toree Saturn",
+      "link": "https://www.igdb.com/games/toree-saturn",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co8te2.png",
+      "details": {
+        "genres": [
+          "platform"
+        ],
+        "platforms": [
+          "switch",
+          "win"
+        ],
+        "publishers": [
+          "siactro"
+        ]
+      }
+    },
+    {
+      "title": "Slackjaw",
+      "link": "https://www.igdb.com/games/slackjaw",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa4wp.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Mafia: The Old Country",
+      "link": "https://www.igdb.com/games/mafia-the-old-country",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9s2c.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "adventure"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "hangar-13",
+          "2k"
+        ]
+      }
+    },
+    {
+      "title": "Jaws of Hell",
+      "link": "https://www.igdb.com/games/jaws-of-hell--1",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9z81.png",
+      "details": {
+        "genres": [
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "The Deathmind",
+      "link": "https://www.igdb.com/games/the-deathmind",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa38e.png",
+      "details": {
+        "genres": [
+          "puzzle",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "etnabyte-games"
+        ]
+      }
+    },
+    {
+      "title": "A Farewell To AI",
+      "link": "https://www.igdb.com/games/a-farewell-to-ai",
+      "releaseDate": "2025-08-08",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa552.png",
+      "details": {
+        "genres": [
+          "visual-novel"
+        ],
+        "platforms": [
+          "ios"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Mushroom Survivors",
+      "link": "https://www.igdb.com/games/mushroom-survivors",
+      "releaseDate": "2025-08-11",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa736.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Egg Chicken Farm",
+      "link": "https://www.igdb.com/games/egg-chicken-farm",
+      "releaseDate": "2025-08-11",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9yyt.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Mythscroll",
+      "link": "https://www.igdb.com/games/mythscroll",
+      "releaseDate": "2025-08-11",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa55t.png",
+      "details": {
+        "genres": [
+          "role-playing-rpg",
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "seedborne"
+        ]
+      }
+    },
+    {
+      "title": "Whisper Mountain Outbreak",
+      "link": "https://www.igdb.com/games/whisper-mountain-outbreak",
+      "releaseDate": "2025-08-11",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co7b3t.png",
+      "details": {
+        "genres": [
+          "tactical",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "toge-productions"
+        ]
+      }
+    },
+    {
+      "title": "O.M.N.I.S.: Overnight Train",
+      "link": "https://www.igdb.com/games/o-dot-m-n-dot-i-s-dot-overnight-train",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa6j4.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "noir1987"
+        ]
+      }
+    },
+    {
+      "title": "World War Z VR",
+      "link": "https://www.igdb.com/games/world-war-z-vr",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9zp5.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "adventure"
+        ],
+        "platforms": [
+          "meta-quest-2",
+          "steam-vr"
+        ],
+        "publishers": [
+          "saber-interactive"
+        ]
+      }
+    },
+    {
+      "title": "Gug",
+      "link": "https://www.igdb.com/games/gug--1",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/coa2yc.png",
+      "details": {
+        "genres": [
+          "simulator",
+          "strategy",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "martian-lawyers-club"
+        ]
+      }
+    },
+    {
+      "title": "Abyssus",
+      "link": "https://www.igdb.com/games/abyssus",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xpz.png",
+      "details": {
+        "genres": [
+          "shooter",
+          "adventure",
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "doublemoose-games",
+          "the-arcade-crew"
+        ]
+      }
+    },
+    {
+      "title": "Echoes of the End",
+      "link": "https://www.igdb.com/games/echoes-of-the-end",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9xoc.png",
+      "details": {
+        "genres": [
+          "adventure"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "myrkur-games",
+          "deep-silver"
+        ]
+      }
+    },
+    {
+      "title": "Age of Wonders 4: Archon Prophecy",
+      "link": "https://www.igdb.com/games/age-of-wonders-4-archon-prophecy",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co95tg.png",
+      "details": {
+        "genres": [
+          "strategy",
+          "turn-based-strategy-tbs"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "triumph-studios",
+          "paradox-interactive"
+        ]
+      }
+    },
+    {
+      "title": "Once Up",
+      "link": "https://www.igdb.com/games/once-up",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9wne.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Fresh Tracks",
+      "link": "https://www.igdb.com/games/fresh-tracks",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9jkn.png",
+      "details": {
+        "genres": [
+          "indie"
+        ],
+        "platforms": [
+          "win",
+          "ps5",
+          "series-x-s"
+        ],
+        "publishers": [
+          "undefined"
+        ]
+      }
+    },
+    {
+      "title": "Dungeon Warfare III",
+      "link": "https://www.igdb.com/games/dungeon-warfare-iii",
+      "releaseDate": "2025-08-12",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_small/co9guy.png",
+      "details": {
+        "genres": [
+          "strategy"
+        ],
+        "platforms": [
+          "win"
+        ],
+        "publishers": [
+          "valsar"
+        ]
+      }
+    }
+  ]
+}

@@ -42,8 +42,11 @@ async function ScrollToBottom(page) {
   }
 }
 async function extractGameList(page) {
+  console.log("Extracting games list from main page");
+
   return page.evaluate(() => {
     const gameCards = Array.from(document.querySelectorAll(".media"));
+
     return gameCards.map((card) => {
       const titleAnchor = card.querySelector(".media-body a");
       const title = titleAnchor?.textContent.trim();
@@ -66,6 +69,8 @@ async function extractGameList(page) {
   });
 }
 async function extractGameDetails(page) {
+  console.log("Visitng each game for more details");
+  
   return page.evaluate(() => {
     const anchors = Array.from(document.querySelectorAll("a"));
     const genres = [];
@@ -106,7 +111,7 @@ async function runBrowser() {
     });
     console.log("✅ Page loaded");
     await waitForRecaptcha(page);
-    await autoScroll(page);
+    await ScrollToBottom(page);
 
     const games = await extractGameList(page);
     for (const game of games) {

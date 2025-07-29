@@ -81,6 +81,8 @@ export function saveResultsToFile({ links, images, url, folder = "results" }) {
 }
 
 export function saveGamesToFile({ data, url, folder = "results" }) {
+  console.log("Saving games to file");
+  
   const timestamp = generateTimestamp();
   ensureDir(folder);
   const filePath = buildFilePath(url, timestamp, folder);
