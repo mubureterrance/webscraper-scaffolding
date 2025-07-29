@@ -80,3 +80,9 @@ If you encounter other issues, see the [Puppeteer troubleshooting guide](https:/
 ## License
 
 MIT
+
+## 👥 Contributors
+
+- [Terrance Mubure](https://github.com/mubureterrance))
+- [Nomhle Cathala](https://github.com/Nomhle255)
+- [Tlhalefang Ntshilane](https://github.com/ThalefangN)
